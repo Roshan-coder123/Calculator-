@@ -1,1 +1,1 @@
-I make a calculator which can do various calculations like "/, *, -, +, ^" division, multiplication, subtraction, addition, square, etc . This code is written in python language and HTML as well to give proper form to it.
+I make a calculator which can do various calculations like "/, *, -, +, ^" division, multiplication, subtraction, addition, square, etc . This code is written in HTML to give proper form to it and to make it workable.
